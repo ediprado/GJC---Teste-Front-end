@@ -1,0 +1,14 @@
+[
+  {
+    "codigo": 32,
+    "padrao":"checked",
+    "name": "Destaque Ouro",
+    "value": {"integer":49, "float":90}
+  },
+  {
+    "codigo": 59,
+    "padrao":"null",
+    "name": "Destaque Prata",
+    "value": {"integer":29, "float":90}
+  }
+]
