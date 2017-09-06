@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="106px" height="106px" viewBox="0 0 106 106" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.1 (44463) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/sucesso</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Etapa-03---Concluído" transform="translate(-427.000000, -113.000000)" fill-rule="nonzero" fill="#0B9140">
+            <g id="Group" transform="translate(287.000000, 112.000000)">
+                <g id="icon/sucesso" transform="translate(139.000000, 0.000000)">
+                    <path d="M54,107.014553 C24.7675676,107.014553 0.985446985,83.2324324 0.985446985,54 C0.985446985,24.7675676 24.7675676,0.985446985 54,0.985446985 C83.2324324,0.985446985 107.014553,24.7675676 107.014553,54 C107.014553,83.2324324 83.2324324,107.014553 54,107.014553 Z M54,7.22245322 C28.2070686,7.22245322 7.22245322,28.2070686 7.22245322,54 C7.22245322,79.7929314 28.2070686,100.777547 54,100.777547 C79.7929314,100.777547 100.777547,79.7929314 100.777547,54 C100.777547,28.2070686 79.7929314,7.22245322 54,7.22245322 Z" id="Shape"></path>
+                    <polygon id="Shape" points="47.7351351 72.3746362 30.8939709 57.3072765 35.0528067 52.6586279 47.2632017 63.5837838 72.4740125 35.6253638 77.1060291 39.802079"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
